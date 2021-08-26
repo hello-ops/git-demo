@@ -2,10 +2,6 @@ hello world 222222
 hello world 333
 hello world
 hello world
-<<<<<<< HEAD
 hello world master
-
-
-=======
 hello world hot-fix
->>>>>>> hot-fix
+test
